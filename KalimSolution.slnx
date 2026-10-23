@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Kalim.Api/Kalim.Api.csproj" />
+    <Project Path="Kalim.Core/Kalim.Core.csproj" />
+    <Project Path="Kalim.Infrastructure/Kalim.Infrastructure.csproj" />
+  </Folder>
+</Solution>
